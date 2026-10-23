@@ -1,7 +1,12 @@
 # SPEC — LearnPath
 
-**Materia:** Desarrollo de Software  
-**Año:** 2026
+> **Qué es este documento:** tu versión refinada de la SPEC de clase.
+> El repo empieza con la SPEC de clase **tal cual** (primer commit). Este archivo es su evolución:
+> mismos requisitos, ambigüedades resueltas, decisiones incorporadas.
+> **Regla:** si la SPEC de clase no lo decía y vos lo definiste, queda acá (con el porqué)
+> o se referencia al documento donde quedó decidido (PRD para producto, TRD para técnica).
+> **Cuándo está bien:** un lector que no estuvo en el aula del 20/10 entiende el producto
+> completo leyendo solo este archivo, y puede rastrear cada decisión hasta su origen.
 
 ## 1. Identidad del producto
 

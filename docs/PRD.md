@@ -1,7 +1,10 @@
-# PRD — LearnPath
+# PRD — Product Requirements Document - LearnPath
 
-**Materia:** Desarrollo de Software  
-**Año:** 2026
+> **Qué es:** el QUÉ y el POR QUÉ. Para quién construimos, qué problema resuelve, qué hace
+> y — con el mismo peso — qué **no** hace. No habla de tecnología ni de carpetas (eso es el TRD).
+> **Cuándo está bien:** alguien del equipo puede construir la feature correcta sin preguntarte
+> nada de producto; el "no" (out of scope) está tan claro como el "sí"; cada historia tiene
+> criterios de aceptación verificables.
 
 ## 1. Resumen ejecutivo
 
