@@ -37,7 +37,7 @@ Los cursos aportados deben validarse antes de aparecer en el catálogo comunitar
 
 | Instancia | Contenido | Estado |
 |-----------|-----------|--------|
-| A — Documentación | repo + 7 documentos | ✅ enviada a aprobación el [fecha] |
+| A — Documentación | repo + 7 documentos | En revisión docente |
 | B — Desarrollo del MVP | ejecución del Implementation Plan | ⏳ pendiente de aprobación |
 | C — Clase 27/10 | testing, Docker multi-stage, gestión del cambio | ⏳ |
 

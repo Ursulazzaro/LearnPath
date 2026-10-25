@@ -104,7 +104,7 @@ Los cambios se registrarán mediante Conventional Commits.
 - **Unit tests (services):** funciones puras de negocio — ej. reglas de validación de aportes, reglas del roadmap, transiciones de estado del curso. Patrón AAA, sin BD ni HTTP.
 - **Integration tests (repositories/services):** contra BD real (SQLite en memoria o Postgres del compose).
 - **Frontend:** hooks con Vitest (estado de carga, paginación, errores).
-- Objetivo de cobertura: [declará el tuyo — ej. ≥ 85% en services]
+- Objetivo de cobertura: al menos 80% en los servicios principales.
 
 
 ## 6. Riesgos del plan
