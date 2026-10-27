@@ -8,6 +8,21 @@
 
 ---
 
+## Cómo levantar el proyecto
+
+El proyecto se encuentra en desarrollo.
+
+Cuando esté terminado el scaffold, se podrá iniciar el entorno de desarrollo utilizando Docker Compose.
+
+Los pasos previstos son:
+
+1. Clonar el repositorio
+2. Crear el archivo .env a partir de .env.example
+3. Ejecutar `docker compose up`.
+
+Las instrucciones completas se agregarán al finalizar el ticket T4.
+
+
 ## Qué hace
 
 LearnPath es una aplicación web donde los usuarios pueden compartir cursos gratuitos de diferentes plataformas.
